@@ -1,0 +1,6 @@
+@import "bourbon";
+@import "file2";
+
+section {
+  @include linear-gradient(to top, red, orange);
+}

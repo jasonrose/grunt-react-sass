@@ -1,0 +1,7 @@
+node_modules
+target
+*~
+.DS_Store
+.sass-cache
+bower_components
+npm-debug.log
