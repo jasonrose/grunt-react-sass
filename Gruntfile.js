@@ -83,7 +83,8 @@ module.exports = function(grunt) {
       html: 'target/dist/index.html',
       options: {
         dest: 'target/dist',
-        staging: 'target/staging'
+        staging: 'target/staging',
+        root: '.'
       }
     },
 
